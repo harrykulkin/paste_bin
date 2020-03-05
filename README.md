@@ -1,1 +1,2 @@
 # paste_bin
+test
